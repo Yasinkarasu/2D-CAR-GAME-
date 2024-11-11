@@ -1,5 +1,7 @@
 # 2D Car Game - Unity
 
+![banner resim](https://github.com/yasinkarasu/2D-CAR-GAME-/blob/master/docs/oyunici.png)
+
 ## Project Description
 2D Car Game is a simple yet fun 2D car game developed with Unity.
 
